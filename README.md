@@ -1,8 +1,8 @@
 # Tableau-Projects
 This repository consists of all the projects in data visualization I have done using Tableau
-Project 1:
----
 
+---
+# Project 1:
 # Data Visualization for Customer Insights – Airbnb Dataset
 
 ## Overview
