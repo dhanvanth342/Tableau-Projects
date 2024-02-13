@@ -5,6 +5,7 @@ This repository consists of all the projects in data visualization I have done u
 # Project 1:
 # Data Visualization for Customer Insights – Airbnb Dataset
 
+Link for the dataset: https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset/data 
 ## Overview
 This project utilizes the Airbnb dataset to provide insights for individuals interested in starting an Airbnb business. The primary use case is to determine the optimal location for purchasing a property to be listed on Airbnb in order to maximize profits.
 
